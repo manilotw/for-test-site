@@ -1,0 +1,4 @@
+env/
+.vscode/
+index.html
+.env
